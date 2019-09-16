@@ -1,0 +1,16 @@
+{
+    "name": "marijoo/wp-redirect-to-subsite",
+    "description": "Redirects the main site of a WordPress network to the first sub site available",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.3.2",
+        "composer/installers": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kolossal.io",
+            "email": "hello@kolossal.io"
+        }
+    ]
+}
